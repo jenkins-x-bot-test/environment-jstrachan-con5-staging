@@ -12,6 +12,7 @@ expose:
   Args:
   - --v
   - 4
+  config: {}
 jenkins:
   Servers:
     Global: {}
