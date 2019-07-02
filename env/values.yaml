@@ -12,7 +12,8 @@ expose:
   Args:
   - --v
   - 4
-  config: {}
+  config:
+    domain: 104.199.17.135.nip.io
 jenkins:
   Servers:
     Global: {}
